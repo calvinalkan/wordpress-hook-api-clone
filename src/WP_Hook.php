@@ -7,13 +7,18 @@
  * @since 4.7.0
  */
 
+namespace WpHookApiClone;
+
+use ArrayAccess;
+use Iterator;
+
 /**
  * Core class used to implement action and filter hook functionality.
  *
- * @since 4.7.0
- *
  * @see Iterator
  * @see ArrayAccess
+ *@since 4.7.0
+ *
  */
 final class WP_Hook implements Iterator, ArrayAccess {
 

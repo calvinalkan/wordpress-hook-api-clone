@@ -10,8 +10,13 @@
     }
   ],
   "autoload": {
-
-    "WpHookApiClone": "src/"
-
+    "psr-4": {
+      "WpHookApiClone\\": "src/"
+    },
+    "files": [
+      "src/plugin.php"
+    ]
   }
+
 }
+
