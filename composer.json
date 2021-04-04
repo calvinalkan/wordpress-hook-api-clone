@@ -1,6 +1,6 @@
 {
   "name": "calvinalkan/wordpress-hook-api-clone",
-  "description": "An exact copy of the Wordpress Hook API Files, manually synced after every WP release",
+  "description": "An exact copy of the Wordpress hook API files, manually synced after every WP release",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
