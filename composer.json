@@ -1,0 +1,12 @@
+{
+  "name": "calvinalkan/wp-hook-api-clone",
+  "description": "An exact copy of the Wordpress Hook API Files, manually synced after every WP release",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "calvinalkan",
+      "email": "calvin@snicco.de"
+    }
+  ]
+}
