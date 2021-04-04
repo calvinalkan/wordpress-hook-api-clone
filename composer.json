@@ -8,15 +8,7 @@
       "name": "calvinalkan",
       "email": "calvin@snicco.de"
     }
-  ],
-  "autoload": {
-    "psr-4": {
-      "WpHookApiClone\\": "src/"
-    },
-    "files": [
-      "src/plugin.php"
-    ]
-  }
+  ]
 
 }
 

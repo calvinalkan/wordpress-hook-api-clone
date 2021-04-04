@@ -7,10 +7,7 @@
  * @since 4.7.0
  */
 
-namespace WpHookApiClone;
 
-use ArrayAccess;
-use Iterator;
 
 /**
  * Core class used to implement action and filter hook functionality.
