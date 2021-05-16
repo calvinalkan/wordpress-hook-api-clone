@@ -7,15 +7,13 @@
  * @since 4.7.0
  */
 
-
-
 /**
  * Core class used to implement action and filter hook functionality.
  *
+ * @since 4.7.0
+ *
  * @see Iterator
  * @see ArrayAccess
- *@since 4.7.0
- *
  */
 final class WP_Hook implements Iterator, ArrayAccess {
 
